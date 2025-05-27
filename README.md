@@ -111,5 +111,5 @@ Mini projects exploring IAM, VPC firewall rules, Cloud Armor, and threat prevent
 
 ---
 
-> 💬 “Cybersecurity isn’t just a job for me—it's a purpose. I believe in protecting people, data, and dreams.”  
+> 💬 “Cybersecurity isn’t just a job for me — it's a purpose. I believe in protecting people, data, and dreams.”  
 > — *Rumbidzai Mutsengi*
