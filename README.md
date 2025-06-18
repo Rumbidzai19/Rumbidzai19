@@ -91,11 +91,14 @@ Mini projects exploring IAM, VPC firewall rules, Cloud Armor, and threat prevent
 
 ## 🎓 Certifications & Education
 
-- ✅ Google Cloud Cybersecurity Certification (Dec 2024)
-- ✅ IBM AI Foundation for Business (2024)
-- ✅ CompTIA Security+ (SY0-701) – (2025)
-- 📘 ISO 27001 – _In Progress_
-- 📘 NIST Cybersecurity Framework – _In Progress_
+
+[![Security+](./securityplus.png)](https://www.credly.com/badges/19a930aa-b4c6-42e6-8e93-aab7c92c4207/public_url)
+[![Google Cybersecurity](./googlecyber.png)](https://www.credly.com/badges/ec0ab501-02e1-48ba-8026-32368f698746/public_url)
+[![IBM AI Analyst](./ibm-ai.png)](https://www.credly.com/badges/0f5b1742-3505-47bc-b89e-ae30c88e5191/public_url)
+[![IBM AI Ladder](./ibm-ailadder.png)](https://www.credly.com/badges/6dd131f0-cff8-40a1-883e-6d0a543f5809/public_url)
+[![Cybersecurity Architecture](./Cybersecurity Architecture.png)](https://www.credly.com/badges/6aeb072b-5aba-451e-9216-88c5d59698cc/public_url)
+[![Data Science Orientation](./Data Science Orientation.png)](https://www.credly.com/badges/3422ba00-d2fb-4ed6-8c40-8cd6bf8cbfa6/public_url)
+
 
 ---
 
