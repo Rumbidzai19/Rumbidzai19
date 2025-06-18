@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Rumbidzai
 
-**Aspiring Cybersecurity Analyst | Google Cloud Cybersecurity Certified | Continuous Learner**
+**Aspiring Cybersecurity Analyst | Comptia security plus Certified | Continuous Learner**
 
 ---
 
@@ -15,7 +15,7 @@
 I'm a passionate and motivated cybersecurity enthusiast working toward a career in **Blue Team** roles. While I'm just starting out, I’ve already begun building my skills through **hands-on labs**, **certifications**, and **personal projects** focused on security fundamentals, cloud security, and incident response.
 
 - 🛡️ Google Cybersecurity Certificate
-- 📘 CompTIA Security+ (In Progress)
+- 📘 CompTIA Security+ 
 - 💼 Background in Business Development & Tech Strategy
 - 💻 Building a strong foundation in Linux, Networking, and Threat Detection
 
@@ -58,7 +58,7 @@ I'm a passionate and motivated cybersecurity enthusiast working toward a career 
 
 Using VirtualBox + pfSense + Ubuntu + Windows to simulate a secure network. Learning detection & defense techniques.
 
-### 🔹 [SIEM with Splunk](https://github.com/rumbidzai19/splunk-blue-team-lab) _(In Progress)_
+### 🔹 [SIEM with Splunk](https://github.com/rumbidzai19/splunk-blue-team-lab) 
 
 Basic log ingestion and alert creation with Splunk. Practicing threat hunting with mock logs.
 
@@ -93,7 +93,7 @@ Mini projects exploring IAM, VPC firewall rules, Cloud Armor, and threat prevent
 
 - ✅ Google Cloud Cybersecurity Certification (Dec 2024)
 - 📘 IBM AI Foundation for Business (2024)
-- 📘 CompTIA Security+ (SY0-701) – _In Progress_
+- 📘 CompTIA Security+ (SY0-701) – (2025)
 - 📘 ISO 27001 – _In Progress_
 - 📘 NIST Cybersecurity Framework – _In Progress_
 
@@ -102,8 +102,7 @@ Mini projects exploring IAM, VPC firewall rules, Cloud Armor, and threat prevent
 ## 🌐 Contact & Links
 
 📍 Schwalbach am Taunus  
-📧 rumbymutsy@gmail.com  
-📞 +49 178 4524077  
+📧 rumbidzai.cyberjob@gmail.com    
 🔗 [GitHub Profile](https://github.com/Rumbidzai19)
 
 ---
