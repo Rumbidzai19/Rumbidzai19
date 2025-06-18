@@ -2,7 +2,7 @@
 
 ![](assets/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Rumbidzai+Mutsengi;Aspiring+SOC+Analyst+%7C+Cybersecurity+Learner;Google+Cloud+Cybersecurity+Certified;Security%2B+%28SY0-701%29+in+progress;Hands-on+with+Splunk%2C+Wireshark%2C+GCP;Always+learning+and+threat+hunting+🚨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Rumbidzai+Mutsengi;Aspiring+SOC+Analyst+%7C+Cybersecurity+Learner;Google+Cloud+Cybersecurity+Certified;Security%2B+%28SY0-701%29+Certified;Hands-on+with+Splunk%2C+Wireshark%2C+GCP;Always+learning+and+threat+hunting+🚨)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Rumbidzai
 
@@ -92,8 +92,8 @@ Mini projects exploring IAM, VPC firewall rules, Cloud Armor, and threat prevent
 ## 🎓 Certifications & Education
 
 - ✅ Google Cloud Cybersecurity Certification (Dec 2024)
-- 📘 IBM AI Foundation for Business (2024)
-- 📘 CompTIA Security+ (SY0-701) – (2025)
+- ✅ IBM AI Foundation for Business (2024)
+- ✅ CompTIA Security+ (SY0-701) – (2025)
 - 📘 ISO 27001 – _In Progress_
 - 📘 NIST Cybersecurity Framework – _In Progress_
 
