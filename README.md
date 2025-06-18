@@ -89,14 +89,17 @@ Mini projects exploring IAM, VPC firewall rules, Cloud Armor, and threat prevent
 
 ---
 
-## 🏅 Certifications & Skills
+<h2>🏅 Certifications & Skills</h2>
 
-![Security+](securityplus.png)  
-![Google Cybersecurity](googlecyber.png)  
-![IBM AI Analyst](ibm-ai.png)  
-![IBM AI Ladder](ibm-ailadder.png)  
-![Cybersecurity Architecture](cybersecurity-architecture.png)  
-![Data Science Orientation](data-science-orientation.png)
+<p align="center">
+  <img src="./securityplus.png" alt="Security+" width="120" />
+  <img src="./googlecyber.png" alt="Google Cybersecurity" width="120" />
+  <img src="./ibm-ai.png" alt="IBM AI Analyst" width="120" />
+  <img src="./ibm-ailadder.png" alt="IBM AI Ladder" width="120" />
+  <img src="./cybersecurity-architecture.png" alt="Cybersecurity Architecture" width="120" />
+  <img src="./data-science-orientation.png" alt="Data Science Orientation" width="120" />
+</p>
+
 
 
 ---
